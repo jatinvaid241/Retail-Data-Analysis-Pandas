@@ -1,0 +1,111 @@
+#-----------------------------------------------------Key Business Insights--------------------------------
+
+📈 REVENUE INSIGHTS 
+
+Total Revenue: 10644560.424
+Highest Revenue Month: 1509496.330
+Strong sales growth observed in Q4 (Oct–Dec)
+Lowest Sales Observed in February : 523631.890
+
+🏆 Top 10 Products by Revenue
+
+DOTCOM POSTAGE                        206248.77
+REGENCY CAKESTAND 3 TIER              174484.74
+PAPER CRAFT , LITTLE BIRDIE           168469.60
+WHITE HANGING HEART T-LIGHT HOLDER    106292.77
+PARTY BUNTING                          99504.33
+JUMBO BAG RED RETROSPOT                94340.05
+MEDIUM CERAMIC TOP STORAGE JAR         81700.92
+Manual                                 78112.82
+POSTAGE                                78101.88
+RABBIT NIGHT LIGHT                     66964.99
+
+🌍 Country-wise Revenue
+United Kingdom          9003097.964(Dominant Market)
+
+
+Netherlands, EIRE, Germany, France, Australia are top international contributors
+
+Netherlands              285446.340
+EIRE                     283453.960
+Germany                  228867.140
+France                   209715.110
+Australia                138521.310
+
+➡️ UK-focused strategy with selective global expansion recommended.
+
+
+
+👥 Customer Analysis
+
+Total Unique Customers: 4339
+Top Customer Revenue: 280,206
+
+Small % of customers contribute disproportionately high revenue
+
+🔁 Repeat Customers
+
+CustomerID
+17841    7847
+14911    5677
+14096    5111
+12748    4596
+14606    2700
+15311    2379
+14646    2080
+13089    1818
+13263    1677
+14298    1637
+
+
+📦 Order-Level Insights
+
+Average Order Value 61.12000018606744
+Average Products Per order 273.1079216518719
+
+
+🔄 Returns Analysis
+
+Most Returned Products
+
+PINK SMALL JEWELLED PHOTOFRAME  
+PINK PAPER PARASOL              
+PINK MONTE CARLO HANDBAG        
+PINK LOVE BIRD CANDLE            -1
+PINK LARGE JEWELED PHOTOFRAME   
+PINK HORSE SOCK PUPPET KIT      
+PINK HEART SHAPE PHOTO FRAME     -1
+CHRISTMAS GINGHAM TREE          
+PINK DOG CANNISTER              
+PINK BUTTERFLY CUSHION COVER 
+
+⏰ Time-Based Insights
+📅 Best Sales Day
+
+Thursday generates highest revenue
+
+Sunday has lowest sales activity
+
+🕙 Best Sales Hour
+
+10 AM is the peak revenue hour
+➡️ Best time for promotions & email campaigns
+
+
+🚀 Business Recommendations
+
+Focus marketing on Thursday mornings
+
+Push inventory for top-performing products
+
+Investigate reasons behind high returns
+
+Target high-value repeat customers with loyalty programs
+
+Increase promotions during Q4 months
+
+
+📌 Conclusion
+
+This analysis provides actionable insights into sales performance, customer behavior, and 
+operational efficiency, making it useful for data-driven retail decision-making.
